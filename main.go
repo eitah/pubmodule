@@ -1,6 +1,6 @@
 package main
 
-import "github.com/eitah/mysecret"
+import "github.com/spantree-tempuslabs/mysecret"
 
 func main() {
 	mysecret.SecretProcess()
