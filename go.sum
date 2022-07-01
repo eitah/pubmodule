@@ -1,2 +1,4 @@
+github.com/eitah/mysupersecret v0.0.0-20220701223203-90ca5b276053 h1:YhSLcvFeco70gDxOEZMD9Fy5ff7e8wixuicjF4rzOD0=
+github.com/eitah/mysupersecret v0.0.0-20220701223203-90ca5b276053/go.mod h1:SOKm//532QqkZFvKqJluu/XUDbOxLb9D3hFuNsHfZTY=
 github.com/spantree-tempuslabs/mysecret v0.1.0 h1:lq+EYIBJKxn1MprprzzcGDAms6w+A9Lkdpd8Pty1pGc=
 github.com/spantree-tempuslabs/mysecret v0.1.0/go.mod h1:j6PT1T4BT0KldGFf1CzJqZMPtkJPvfuVxq+z3GDyyhA=
